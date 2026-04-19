@@ -41,5 +41,11 @@
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/Avyakta-dev/Avyakta-dev/raw/output/snake.svg)
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avyakta-dev&theme=tokyo-night&hide_border=true&rand=1" alt="Avyakta's GitHub Activity Graph">
+</p>
+
+
+---
