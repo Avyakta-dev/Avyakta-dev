@@ -21,8 +21,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avyakta-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avyakta-dev&theme=radical&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Avyakta-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&rand=1" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avyakta-dev&theme=radical&hide_border=false&rand=1" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avyakta-dev&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
